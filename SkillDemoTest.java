@@ -7,7 +7,7 @@ public class SkillDemoTest
     @Test 
     public void Division()
     {
-        assertEquals(2, SkillDemo.Division(6, 2)); //this will fail
+        assertEquals(3, SkillDemo.Division(6, 2)); // should work now
     }
  
 }
